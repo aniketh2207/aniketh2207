@@ -1,16 +1,96 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20👋,%20I'm%20Aniketh&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Web%20Architect%20and%20Agentic%20AI%20Specialist&descAlignY=55&descAlign=50"/>
+  
+  <br/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Self-Evolving+Systems;Exploring+Autonomous+Integration;Crafting+Voice+Agents;Always+Learning" alt="Typing SVG" />
+  </a>
+  
+  <br/>
 
-<!--
-**aniketh2207/aniketh2207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+    <a href="https://linkedin.com/in/aniketh-korkonda-bhattar" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:ankb2207@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>🚀 Current Focus</h3>
+</div>
+
+- 🔭 I’m currently architecting a **Personal Voice Assistant** using Agentic workflows.
+- 🌱 I’m currently deepening my knowledge in **AI Engineering, Deep Learning, and Java**.
+- 💡 I'm interested in the intersection of **Web Architecture** and **Autonomous AI**.
+
+<hr/>
+
+<h3 align="center">🛠 Languages & Technologies</h3>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+</div>
+
+<br/>
+
+<h3 align="center">⚡ Featured Project</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎙️ Personal Voice Agent</h3>
+        <p align="center">
+          A real-time, bidirectional voice assistant built with Python.
+          <br />
+          <br />
+          <img src="https://img.shields.io/badge/Tech-FastAPI%20|%20Deepgram%20|%20WebSockets-blue" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<hr/>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketh2207&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Aniketh's Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketh2207&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langs" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/aniketh2207/aniketh2207/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
