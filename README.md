@@ -4,7 +4,7 @@
   <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Self-Evolving+Systems;Exploring+Autonomous+Integration;Crafting+Voice+Agents;Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=436&lines=Building+Self-Evolving+Systems;Exploring+Autonomous+Integration;Crafting+Voice+Agents;Always+Learning" alt="Typing SVG" />
   </a>
   
   <br/>
