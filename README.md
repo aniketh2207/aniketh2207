@@ -4,7 +4,7 @@
   <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=436&lines=Building+Self-Evolving+Systems;Exploring+Autonomous+Integration;Crafting+Voice+Agents;Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=436&lines=Building+Self-Evolving+Systems;Exploring+Autonomous+Integration;Always+Learning" alt="Typing SVG" />
   </a>
   
   <br/>
@@ -25,7 +25,6 @@
   <h3>🚀 Current Focus</h3>
 </div>
 
-- 🔭 I’m currently architecting a **Personal Voice Assistant** using Agentic workflows.
 - 🌱 I’m currently deepening my knowledge in **AI Engineering, Deep Learning, and Java**.
 - 💡 I'm interested in the intersection of **Web Architecture** and **Autonomous AI**.
 
