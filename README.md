@@ -64,13 +64,7 @@
 </div>
 
 <br/>
-<h3 align="center">📊 GitHub Stats</h3>
-
-
-
-
-
-
+<h3 align="center"> Contributions </h3>
 <hr/>
 
 
