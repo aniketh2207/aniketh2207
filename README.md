@@ -65,22 +65,7 @@
 
 <br/>
 
-<h3 align="center">⚡ Featured Project</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🎙️ Personal Voice Agent</h3>
-        <p align="center">
-          A real-time, bidirectional voice assistant built with Python.
-          <br />
-          <br />
-          <img src="https://img.shields.io/badge/Tech-FastAPI%20|%20Deepgram%20|%20WebSockets-blue" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <hr/>
 
