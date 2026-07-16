@@ -61,11 +61,4 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-</div>
-<br/>
-<h3 align="center"> Contributions </h3>
-<hr/>
-<div align="center">
-  <img src="https://github.com/aniketh2207/aniketh2207/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
