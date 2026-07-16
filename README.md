@@ -63,11 +63,4 @@
 
 </div>
 
-<br/>
-<h3 align="center"> Contributions </h3>
-<hr/>
 
-
-<div align="center">
-  <img src="https://github.com/aniketh2207/aniketh2207/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
